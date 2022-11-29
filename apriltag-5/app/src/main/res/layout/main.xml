@@ -1,0 +1,100 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+
+    <FrameLayout
+        android:id="@+id/tag_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.9"
+        />
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.1"
+        android:orientation="horizontal"
+        android:id="@+id/lowerLayout"
+        >
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/recordButton"
+            android:layout_width="0dp"
+            android:layout_weight="0.3"
+            android:layout_height="match_parent"
+            android:background="#4caf50"
+            android:textColor="@color/white_transparent"
+            android:text="Record"
+            android:onClick="recordData"
+            />
+
+
+        <LinearLayout
+
+            android:layout_width="0dp"
+            android:layout_weight="0.7"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:padding="5dp"
+            android:background="#eeeeee">
+            
+            <TextView
+
+                android:id="@+id/angleGreenTextView"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textColor="#305932"
+                android:text="0.00"
+                android:textSize="30dp"/>
+
+            <TextView
+                android:id="@+id/angleBlueTextView"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textColor="#0c35a4"
+                android:text="0.00"
+                android:textSize="30dp"/>
+
+
+            <TextView
+                android:id="@+id/angleRedTextView"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textColor="#c40f0f"
+                android:text="0.00"
+                android:textSize="30dp"/>
+            
+            
+            
+        </LinearLayout>
+
+        
+        
+        
+
+
+    </LinearLayout>
+
+
+    <!--<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"-->
+        <!--xmlns:app="http://schemas.android.com/apk/res-auto"-->
+        <!--android:id="@+id/toolbar"-->
+        <!--style="@style/Widget.MyApp.Toolbar.Solid"-->
+        <!--android:layout_width="match_parent"-->
+
+        <!--android:layout_height="?attr/actionBarSize"-->
+        <!--android:elevation="4dp"-->
+        <!--android:minHeight="?attr/actionBarSize"-->
+        <!--android:theme="@style/ThemeOverlay.MyApp.ActionBar"-->
+        <!--app:popupTheme="@style/ThemeOverlay.AppCompat.Dark" />-->
+
+
+</LinearLayout>
