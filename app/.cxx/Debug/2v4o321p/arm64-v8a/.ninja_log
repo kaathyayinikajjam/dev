@@ -1,0 +1,27 @@
+# ninja log v5
+1	198	1666129921	CMakeFiles/apriltag.dir/src/main/apriltag/tag16h5.c.o	651514f5647acc0a
+2	245	1666129921	CMakeFiles/apriltag.dir/src/main/apriltag/apriltag_jni.c.o	6c8a88f77befd663
+11	255	1666129921	CMakeFiles/apriltag.dir/src/main/apriltag/common/image_u8x3.c.o	6f97e97bd8ff839b
+8	315	1666129921	CMakeFiles/apriltag.dir/src/main/apriltag/common/image_f32.c.o	dcf61b9b52acbc70
+245	332	1666129921	CMakeFiles/apriltag.dir/src/main/apriltag/common/pnm.c.o	b960f562b4f22ff3
+3	339	1666129921	CMakeFiles/apriltag.dir/src/main/apriltag/common/g2d.c.o	f8d385a6b3e9f65f
+339	407	1666129921	CMakeFiles/apriltag.dir/src/main/apriltag/common/unionfind.c.o	196e0298c85c5530
+315	421	1666129921	CMakeFiles/apriltag.dir/src/main/apriltag/common/svd22.c.o	805d1a0c3bd1d09b
+7	424	1666129921	CMakeFiles/apriltag.dir/src/main/apriltag/common/homography.c.o	e0985ca97019d29e
+9	468	1666129921	CMakeFiles/apriltag.dir/src/main/apriltag/common/image_u8.c.o	9a64187d29469774
+421	493	1666129921	CMakeFiles/apriltag.dir/src/main/apriltag/common/zarray.c.o	37ba3257fad2efae
+3	496	1666129921	CMakeFiles/apriltag.dir/src/main/apriltag/common/getopt.c.o	692e0444e6f88e6b
+332	524	1666129921	CMakeFiles/apriltag.dir/src/main/apriltag/common/time_util.c.o	60a7b3393bcf33c1
+407	544	1666129921	CMakeFiles/apriltag.dir/src/main/apriltag/common/workerpool.c.o	f52a52aa49398eab
+255	612	1666129921	CMakeFiles/apriltag.dir/src/main/apriltag/common/string_util.c.o	808ccb61deb89086
+496	616	1666129921	CMakeFiles/apriltag.dir/src/main/apriltag/tag25h9.c.o	423f5818a058dee3
+494	672	1666129921	CMakeFiles/apriltag.dir/src/main/apriltag/tag25h7.c.o	a6c2b7d65e82e57c
+468	680	1666129921	CMakeFiles/apriltag.dir/src/main/apriltag/common/zmaxheap.c.o	8dc9adb9d82765a8
+0	718	1666129921	CMakeFiles/apriltag.dir/src/main/apriltag/apriltag.c.o	e967b01cdcca4e2d
+424	722	1666129921	CMakeFiles/apriltag.dir/src/main/apriltag/common/zhash.c.o	1ad7fd2d61c98d2a
+544	741	1666129921	CMakeFiles/apriltag.dir/src/main/apriltag/tag36artoolkit.c.o	6b6a3ffb62935ded
+2	753	1666129921	CMakeFiles/apriltag.dir/src/main/apriltag/apriltag_quad_thresh.c.o	8d5e8d80d7932cf5
+612	763	1666129921	CMakeFiles/apriltag.dir/src/main/apriltag/tag36h11.c.o	47b442b05f093d2a
+198	763	1666129921	CMakeFiles/apriltag.dir/src/main/apriltag/common/matd.c.o	e6bbfd58b6f88762
+525	908	1666129921	CMakeFiles/apriltag.dir/src/main/apriltag/tag36h10.c.o	b6c82c1494f289c9
+908	1014	1666129922	../../../../build/intermediates/cxx/Debug/2v4o321p/obj/arm64-v8a/libapriltag.so	2e84d788b14a7f94

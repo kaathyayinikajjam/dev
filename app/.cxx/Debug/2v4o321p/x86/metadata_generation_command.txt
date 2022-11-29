@@ -1,0 +1,18 @@
+                    -H/Users/kaathyayinineeharikakajjam/Downloads/apriltag-3/app
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=21
+-DANDROID_PLATFORM=android-21
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=/Users/kaathyayinineeharikakajjam/Library/Android/sdk/ndk/23.1.7779620
+-DCMAKE_ANDROID_NDK=/Users/kaathyayinineeharikakajjam/Library/Android/sdk/ndk/23.1.7779620
+-DCMAKE_TOOLCHAIN_FILE=/Users/kaathyayinineeharikakajjam/Library/Android/sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/kaathyayinineeharikakajjam/Library/Android/sdk/cmake/3.18.1/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/kaathyayinineeharikakajjam/Downloads/apriltag-3/app/build/intermediates/cxx/Debug/2v4o321p/obj/x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/kaathyayinineeharikakajjam/Downloads/apriltag-3/app/build/intermediates/cxx/Debug/2v4o321p/obj/x86
+-DCMAKE_BUILD_TYPE=Debug
+-B/Users/kaathyayinineeharikakajjam/Downloads/apriltag-3/app/.cxx/Debug/2v4o321p/x86
+-GNinja
+                    Build command args: []
+                    Version: 2

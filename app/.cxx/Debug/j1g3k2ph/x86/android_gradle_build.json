@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/kaathyayinineeharikakajjam/Downloads/apriltag-3/app/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/kaathyayinineeharikakajjam/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/kaathyayinineeharikakajjam/Downloads/apriltag-3/app/.cxx/Debug/j1g3k2ph/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/kaathyayinineeharikakajjam/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/kaathyayinineeharikakajjam/Downloads/apriltag-3/app/.cxx/Debug/j1g3k2ph/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "apriltag-Debug-x86": {
+      "buildCommandComponents": [
+        "/Users/kaathyayinineeharikakajjam/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/kaathyayinineeharikakajjam/Downloads/apriltag-3/app/.cxx/Debug/j1g3k2ph/x86",
+        "apriltag"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "apriltag",
+      "output": "/Users/kaathyayinineeharikakajjam/Downloads/apriltag-3/app/build/intermediates/cxx/Debug/j1g3k2ph/obj/x86/libapriltag.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

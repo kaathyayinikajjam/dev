@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/kaathyayinineeharikakajjam/Downloads/apriltag-3/app/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/kaathyayinineeharikakajjam/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/kaathyayinineeharikakajjam/Downloads/apriltag-3/app/.cxx/Debug/2v4o321p/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/kaathyayinineeharikakajjam/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/kaathyayinineeharikakajjam/Downloads/apriltag-3/app/.cxx/Debug/2v4o321p/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "apriltag::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "apriltag",
+      "output": "/Users/kaathyayinineeharikakajjam/Downloads/apriltag-3/app/build/intermediates/cxx/Debug/2v4o321p/obj/x86/libapriltag.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/kaathyayinineeharikakajjam/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/kaathyayinineeharikakajjam/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}
